@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "723738307140",
+    "firebase_url": "https://proyectothatpc-35341.firebaseio.com",
+    "project_id": "proyectothatpc-35341",
+    "storage_bucket": "proyectothatpc-35341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723738307140:android:3c963263057a8c75182a11",
+        "android_client_info": {
+          "package_name": "com.example.proyectothatpc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723738307140-7koncacuchq4hqdpfgnm3mgaqsq517at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectothatpc",
+            "certificate_hash": "8837c9c02b13c8472584721972b319247b199839"
+          }
+        },
+        {
+          "client_id": "723738307140-rm8ii9sffp6qoh3qdkcn4vb6eud5fh6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectothatpc",
+            "certificate_hash": "94113a2a846269e8d27c32c8a35545f47e24c724"
+          }
+        },
+        {
+          "client_id": "723738307140-udg7pfs05pe0e7r6d79vvtsjl9oktsu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9QztlYc0eHIRdmFDYtkmb_27nX3jYhCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723738307140-udg7pfs05pe0e7r6d79vvtsjl9oktsu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
